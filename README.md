@@ -24,6 +24,21 @@ b) Learn more about how large-scale systems work and thought process of designin
 For a very broad overview please go through these lectures, really useful:
 * [Gaurav Sen's system design series](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 Starts from simple stuff like load balancing and message queues, then moves to building full systems like Whatsapp and Tinder.
+38 videos --- 7+1 days
+
+## Nitish Timelines : Each days 5 videos 
+1-5   -- 24 March 
+6-10  -- 25 March 
+[Revision] - 1  -- 26 March 
+11-15  -- 27 March 
+16-20  -- 28 March 
+[Revision] - 2  -- 28 March 
+21-25   -- 29 March 
+[Revision] - 1 & 2  -- 30 March 
+26-30  -- 01 April 
+31-35  -- 02 April 
+36-38  -- 03 April 
+[Revision] - 1 & 2 & 3 -- 04 April  
 
 * [david malans cs75 scalability talk](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 Feel free to go through other lectures if needed. 
@@ -55,6 +70,9 @@ Should know the TCP/IP stack, basics of how Internet, HTTP, TCP/IP work at the m
 ## <a name='howtoans'> How to answer in interviews </a>
 
 * I found [hiredintech](http://www.hiredintech.com/system-design) videos an excellent place to start with. The way how to approach a design question as given in the link is really useful. It goes into how we start with clearing the use-cases of the system, then thinking in the abstract manner of the various component and the interactions. Think about the bottlenecks of the system and what is more critical for your system (eg latency vs reliability vs uptime etc) Address those giving the tradeoff of your approach. 
+
+## Nitish Timelines 
+
 
 * [system design in crack the coding interview](http://www.flipkart.com/cracking-coding-interview-150-programming-questions-solutions-english-5th/p/itmdz4pvzbhcv6uv): good approach on how to begin attacking a problem by first solving for a small usecase then expanding the system.
 
