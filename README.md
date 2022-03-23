@@ -26,19 +26,19 @@ For a very broad overview please go through these lectures, really useful:
 Starts from simple stuff like load balancing and message queues, then moves to building full systems like Whatsapp and Tinder.
 38 videos --- 7+1 days
 
-## Nitish Timelines : Each days 5 videos 
-1-5   -- 24 March 
-6-10  -- 25 March 
-[Revision] - 1  -- 26 March 
-11-15  -- 27 March 
-16-20  -- 28 March 
-[Revision] - 2  -- 28 March 
-21-25   -- 29 March 
-[Revision] - 1 & 2  -- 30 March 
-26-30  -- 01 April 
-31-35  -- 02 April 
-36-38  -- 03 April 
-[Revision] - 1 & 2 & 3 -- 04 April  
+## Nitish Timelines : Each days 5 videos <br />
+1-5   -- 24 March <br />
+6-10  -- 25 March <br />
+[Revision] - 1  -- 26 March <br />
+11-15  -- 27 March <br />
+16-20  -- 28 March <br />
+[Revision] - 2  -- 28 March <br />
+21-25   -- 29 March <br />
+[Revision] - 1 & 2  -- 30 March <br />
+26-30  -- 01 April <br />
+31-35  -- 02 April <br />
+36-38  -- 03 April <br />
+[Revision] - 1 & 2 & 3 -- 04 April  <br />
 
 * [david malans cs75 scalability talk](https://www.youtube.com/watch?v=-W9F__D3oY4&list=PLmhRNZyYVpDmLpaVQm3mK5PY5KB_4hLjE&index=10)
 Feel free to go through other lectures if needed. 
